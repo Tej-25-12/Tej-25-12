@@ -12,6 +12,8 @@ Building scalable web applications with clean architecture and user-focused desi
 
 <h3 align="center">🤝 Connect With Me</h3>
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tejas-jadhav-6b1574270" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
