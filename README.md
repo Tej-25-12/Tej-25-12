@@ -10,6 +10,7 @@ Building scalable web applications with clean architecture and user-focused desi
 
 <hr style="height:3px;border:none;background-color:#d0d7de;" />
 
+<h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tejas-jadhav-6b1574270">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right:10px;"/>
