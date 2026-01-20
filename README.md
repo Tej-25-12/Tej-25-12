@@ -29,16 +29,12 @@ Building scalable web applications with clean architecture and user-focused desi
 I’m a 3rd-year Computer Engineering student, Full-Stack Web Developer, and Software Engineer specializing in **Java & Python**.  
 I enjoy solving real-world problems by combining efficient backend logic with clean, responsive frontend interfaces.  
 
----
-
 ## 🎯 Core Focus Areas  
 - Backend efficiency & API scalability  
 - Responsive and interactive frontend development  
 - Clean, modular, and maintainable code  
 - Secure authentication & database management  
 - Scroll-triggered animations & UI polish  
-
----
 
 ## 🧰 Tech Stack  
 
@@ -63,29 +59,23 @@ I enjoy solving real-world problems by combining efficient backend logic with cl
 
 ### Tools  
 - Git  
-- GitHub
-- VS Code
-- Jupyter
-- colab
-
----
+- GitHub  
+- VS Code  
+- Jupyter  
+- Colab  
 
 ## 📚 Currently Exploring  
-- Authentication fundamentals (JWT-based authentication)
-- Backend API design with Node.js & Express
-- MongoDB performance basics
-- Advanced React patterns & state management
-- Direction-aware UI animations using IntersectionObserver
-
----
+- Authentication fundamentals (JWT-based authentication)  
+- Backend API design with Node.js & Express  
+- MongoDB performance basics  
+- Advanced React patterns & state management  
+- Direction-aware UI animations using IntersectionObserver  
 
 ## 💼 Internship Experience  
 - **Full-Stack Web Development Intern** — Codtech IT Solutions  
 - **Data Science & AI/ML Intern (Python)** — Sumago Infotech, Nashik  
 
 Worked on real-world projects, collaborative development, and industry-level workflows.  
-
----
 
 ## 💡 Development Philosophy  
 > *"I approach development as a continuous learning process, focusing on clean code, strong fundamentals, and real-world problem solving."*  
