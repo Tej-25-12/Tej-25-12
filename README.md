@@ -10,6 +10,21 @@ Building scalable web applications with clean architecture and user-focused desi
 
 <hr style="height:2px;border:none;background-color:#d0d7de;" />
 
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-jadhav-6b1574270" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn" style="margin-right:15px;"/>
+  </a>
+  <a href="https://github.com/Tej-25-12" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+         alt="GitHub"/>
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 I'm a 3rd-year Computer Engineering student, Full-Stack Web Developer, and Software Engineer specializing in **Java & Python**.  
 I enjoy solving real-world problems by combining efficient backend logic with clean, responsive frontend interfaces.
