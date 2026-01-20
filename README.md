@@ -1,9 +1,23 @@
-# Tejas Jadhav  
+<h1 align="center">Tejas Jadhav</h1>
 
-### Full-Stack Web Developer | Software Engineer (Java & Python) | Computer Engineering Student  
+<hr style="height:1px;border:none;background-color:#d0d7de;" />
 
-Building scalable web applications with clean architecture and user-focused design.  
+<h3 align="center">
+Full-Stack Web Developer | Software Engineer (Java & Python) | Computer Engineering Student
+</h3>
 
+<p align="center">
+Building scalable web applications with clean architecture and user-focused design.
+</p>
+
+<hr style="height:3px;border:none;background-color:#d0d7de;" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-jadhav-6b1574270">LinkedIn</a> •
+  <a href="https://github.com/Tej-25-12">GitHub</a>
+</p>
+
+<hr style="height:3px;border:none;background-color:#d0d7de;" />
 ---
 
 ## 👨‍💻 About Me  
@@ -80,5 +94,5 @@ I believe in building solutions that are:
 ---
 
 ## 🤝 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/tejas-jadhav-6b1574270
-- **GitHub:** https://github.com/Tej-25-12
+- **LinkedIn:** [linkedin.com/in/tejas-jadhav](https://www.linkedin.com/in/tejas-jadhav-6b1574270)
+- **GitHub:** [github.com/Tej-25-12](https://github.com/Tej-25-12)
