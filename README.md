@@ -1,7 +1,5 @@
 <h1 align="center">Tejas Jadhav</h1>
 
-<hr style="height:1px;border:none;background-color:#d0d7de;" />
-
 <h3 align="center">
 Full-Stack Web Developer | Software Engineer (Java & Python) | Computer Engineering Student
 </h3>
